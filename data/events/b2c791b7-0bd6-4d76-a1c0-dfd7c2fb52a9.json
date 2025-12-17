@@ -1,0 +1,71 @@
+{
+  "audiovisual_files": {
+    "4619bd77-ce30-4af1-9e58-5fe9816dd55c": {
+      "label": "Megafono Guarderia ABC",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://archive.org/details/Megafono_-_Plataforma_Memoria_y_Verdad._Caso_GuarderiaABC_-_14_07_2017",
+      "duration": 1770,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "El programa aborda el lanzamiento de una plataforma digital colaborativa entre la sociedad civil y el INAI, diseñada para recopilar y hacer pública información oficial sobre casos graves de violaciones a los derechos humanos en México (como Ayotzinapa, Tlatlaya, Acteal, entre otros), con el fin de preservar la memoria histórica y garantizar la no repetición."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La discusión se centra especialmente en el "
+        },
+        {
+          "text": "caso de la Guardería ABC",
+          "bold": true
+        },
+        {
+          "text": ", detallando el complejo proceso de negociación con los padres de las víctimas. Se debate la tensión jurídica y ética entre el "
+        },
+        {
+          "text": "derecho al acceso a la información",
+          "bold": true
+        },
+        {
+          "text": " (interés público y verdad histórica) y la "
+        },
+        {
+          "text": "protección de datos personales",
+          "bold": true
+        },
+        {
+          "text": ", priorizando el interés superior de la niñez y la privacidad de las víctimas (fallecidos y lesionados) frente a la necesidad de transparencia gubernamental."
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Resguardo información privada",
+  "av_file_order": [
+    "4619bd77-ce30-4af1-9e58-5fe9816dd55c"
+  ],
+  "created_at": "2025-12-17T23:29:26.414Z",
+  "created_by": "pabloscarpaci",
+  "updated_at": "2025-12-17T23:29:26.414Z",
+  "updated_by": "pabloscarpaci"
+}
